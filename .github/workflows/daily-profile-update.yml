@@ -1,0 +1,36 @@
+name: Daily Profile Update
+
+on:
+  # Lightweight daily check that keeps the profile automation visible and easy to monitor.
+  schedule:
+    - cron: "0 6 * * *"
+
+  # Allows manual validation after editing README.md or assets.
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    name: Validate profile files
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out the profile repository so the workflow can inspect required files.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Confirms the expected profile files exist before generated widgets run.
+      - name: Verify required files
+        shell: bash
+        run: |
+          test -f README.md
+          test -f assets/banner.svg
+          test -f assets/hero-placeholder.svg
+          test -f assets/profile-placeholder.svg
+          test -f github-metrics.svg
+          test -f output/github-snake.svg
+          test -f .github/workflows/contribution-snake.yml
+          test -f .github/workflows/github-metrics.yml
+          test -f .github/workflows/daily-profile-update.yml

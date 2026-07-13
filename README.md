@@ -1,182 +1,157 @@
+<p align="center">
+  <img src="./assets/banner.svg" alt="Tanmay Savaj - Software Engineer focused on Backend, Cloud, AI, and DevOps" width="100%" />
+</p>
 
-# 👋 Hey, I'm Tanmay Savaj
-
-<h3 align="center">Software Engineer • Backend • Cloud • AI</h3>
+<h1 align="center">Tanmay Savaj</h1>
 
 <p align="center">
-Building scalable software, automating workflows, and learning something new every day.
+  <strong>Software Engineer | Backend | Cloud | AI</strong>
 </p>
 
 <p align="center">
-📍 Toronto, Canada 🇨🇦
+  Toronto, Canada | Computer Programming @ Seneca Polytechnic | Enterprise Web Developer, Ontario Public Service
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=700&color=58A6FF&center=true&vCenter=true&width=720&lines=Backend+systems+that+stay+reliable;Cloud-native+delivery+with+clean+automation;AI-powered+products+with+practical+engineering;DevOps-minded+software+from+idea+to+production" alt="Typing animation describing Tanmay's engineering focus" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/Tanmaysavaj">
+    <img src="https://komarev.com/ghpvc/?username=Tanmaysavaj&style=flat-square&color=58A6FF" alt="Profile views" />
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## About
 
-I'm a software developer passionate about backend engineering, cloud-native applications,
-DevOps, and AI-powered products.
+I build practical software systems across backend engineering, cloud platforms, automation, and AI-enabled products. My work is shaped by clean interfaces, reliable delivery, and the kind of engineering discipline that keeps projects maintainable after the first version ships.
 
-- 🎓 Computer Programming @ Seneca Polytechnic
-- 💼 Incoming Enterprise Web Developer @ Ontario Public Service
-- ☁️ Interested in Backend Engineering, Cloud & AI
-- 🌱 Currently learning Go, Kubernetes, Azure & System Design
-- 🚀 Always building something outside of work
+Current areas of interest:
 
----
-
-# 🛠 Tech Stack
-
-## Languages
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge)
-
-## Backend
-
-Node.js • Express • Flask • REST APIs • JWT • OAuth
-
-## Frontend
-
-Vue • Nuxt • React • Tailwind CSS • HTML • CSS
-
-## Cloud & DevOps
-
-AWS • Docker • Linux • Azure • GitHub Actions • Bitbucket Pipelines • Nginx
-
-## Databases
-
-PostgreSQL • MongoDB • SQLite
-
----
-
-# 📚 Currently Learning
-
-- Go
-- Kubernetes
-- Azure DevOps
-- System Design
+- Backend Engineering
+- Cloud Computing
+- AI
+- DevOps
 - Distributed Systems
-- Terraform
+- System Design
 
 ---
 
-# 🚀 Featured Projects
-
-## 🤖 IntelliApply
-AI-powered career automation platform helping job seekers streamline applications.
-
-**Tech:** Python • Docker • AWS • AI APIs
-
----
-
-## 💬 Slack × Plane Integration
-
-Slack bot that creates and manages Plane.so tickets automatically.
-
-**Tech:** Python • Flask • Slack API
-
----
-
-## 🩺 Preventive Health Risk Behavior System
-
-Full-stack health tracking platform.
-
-**Tech:** Vue • Go • PostgreSQL • Docker
-
----
-
-## 🌐 Portfolio
-
-Personal portfolio showcasing projects, blogs, and experience.
-
-**Tech:** Next.js • TypeScript • TailwindCSS
-
----
-
-# 📈 GitHub Analytics
-
-> Replace the placeholders below with your generated GitHub widgets later.
-
-```md
-GitHub Stats
-
-Top Languages
-
-Contribution Graph
-
-GitHub Streak
-
-Activity Graph
-```
-
----
-
-# 🎯 2026 Goals
-
-- [x] Enterprise Web Developer Internship
-- [ ] Master Go
-- [ ] Master Kubernetes
-- [ ] Azure Certification
-- [ ] Terraform
-- [ ] Build a SaaS Product
-- [ ] 1000 GitHub Contributions
-- [ ] Full-time Software Engineer
-
----
-
-# 🌙 Random.dev
+## Current Focus
 
 ```text
-terminal > gui
-
-docker fixed it
-
-works on my machine™
-
-coffee > sleep
-
-currently overengineering side projects
-
-building cool things
+role        Enterprise Web Developer, Ontario Public Service
+education   Computer Programming, Seneca Polytechnic
+location    Toronto, Canada
+focus       Backend systems, cloud delivery, automation, AI products
+learning    Go, Kubernetes, Azure, Terraform, distributed systems
 ```
 
 ---
 
-# 🤝 Let's Connect
+## Tech Stack
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=go,python,ts,js,vue,nuxt,react,nodejs,express,docker,aws,azure,linux,postgres,mongodb,githubactions&perline=8" alt="Go, Python, TypeScript, JavaScript, Vue, Nuxt, React, Node.js, Express, Docker, AWS, Azure, Linux, PostgreSQL, MongoDB, and GitHub Actions" />
+</p>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://github.com/Tanmaysavaj">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
+<p align="center">
+  <sub>Also working with Bitbucket Pipelines and modern backend API workflows.</sub>
 </p>
 
 ---
 
-## 💡 Philosophy
+## Featured Projects
 
-> Build. Break. Learn. Repeat.
+| Project | Focus | Stack |
+| --- | --- | --- |
+| **IntelliApply** | AI-powered career automation platform for streamlining job applications. | Python, Docker, AWS, AI APIs |
+| **Slack x Plane Integration** | Slack workflow integration for creating and managing Plane tickets. | Python, Flask, Slack API |
+| **Preventive Health Risk Behavior System** | Full-stack platform for preventive health risk behavior tracking. | Vue, Go, PostgreSQL, Docker |
+| **Portfolio Website** | Personal portfolio for projects, writing, experience, and updates. | Next.js, TypeScript, Tailwind CSS |
 
 ---
 
+## Developer Dashboard
+
+```text
+status       building production-minded software
+mode         backend-first, cloud-aware, automation-friendly
+principles   clear APIs, observable systems, simple deployments
+editor       terminal when possible, GUI when useful
+runtime      coffee, docs, focused commits
+```
+
+---
+
+## GitHub Analytics
+
 <p align="center">
-Thanks for stopping by! ⭐
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Tanmaysavaj&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="Tanmay's GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanmaysavaj&layout=compact&theme=github_dark&hide_border=true" alt="Tanmay's top languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=Tanmaysavaj&theme=github-dark-blue&hide_border=true" alt="Tanmay's GitHub streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Tanmaysavaj&theme=github-compact&hide_border=true&area=true" alt="Tanmay's GitHub activity graph" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Tanmaysavaj&theme=algolia&no-frame=true&no-bg=true&margin-w=10&column=4" alt="Tanmay's GitHub trophies" />
+</p>
+
+<p align="center">
+  <img src="./github-metrics.svg" alt="Generated GitHub metrics. If this does not appear yet, run the GitHub Metrics workflow." />
+</p>
+
+<p align="center">
+  <img src="./output/github-snake.svg" alt="Contribution snake animation. If this does not appear yet, run the Contribution Snake workflow." />
+</p>
+
+---
+
+## Currently Learning
+
+- Go for backend services and tools
+- Kubernetes for operating containerized systems
+- Azure DevOps for enterprise delivery
+- Terraform for infrastructure as code
+- Distributed systems and system design fundamentals
+
+---
+
+## 2026 Goals
+
+- [x] Start Enterprise Web Developer role
+- [ ] Build production-grade services in Go
+- [ ] Deploy and operate Kubernetes workloads
+- [ ] Complete an Azure certification
+- [ ] Use Terraform in a real infrastructure project
+- [ ] Launch a focused SaaS product
+- [ ] Reach 1,000 GitHub contributions
+- [ ] Grow into a full-time Software Engineer role
+
+---
+
+## Connect
+
+<p align="center">
+  <span>Portfolio</span>
+  |
+  <span>LinkedIn</span>
+  |
+  <span>Email</span>
+  |
+  <a href="https://github.com/Tanmaysavaj">GitHub</a>
+  |
+  <span>Resume</span>
+</p>
+
+<p align="center">
+  <strong>Build. Break. Learn. Repeat.</strong>
 </p>

@@ -1,0 +1,13 @@
+<!--
+  Placeholder for the contribution snake.
+  The .github/workflows/contribution-snake.yml workflow replaces this file with generated contribution art.
+-->
+<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Contribution snake placeholder</title>
+  <desc id="desc">Placeholder shown until the Contribution Snake workflow generates live contribution art.</desc>
+  <rect width="800" height="180" rx="18" fill="#0D1117"/>
+  <rect x="24" y="24" width="752" height="132" rx="14" fill="#111827" stroke="#30363D"/>
+  <path d="M146 96C198 52 250 134 302 90C354 46 406 128 458 84C510 40 562 122 614 78C650 48 686 58 714 82" stroke="#58A6FF" stroke-width="8" stroke-linecap="round"/>
+  <circle cx="724" cy="85" r="8" fill="#7EE787"/>
+  <text x="400" y="134" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="16">Generated contribution snake will appear here after the workflow runs.</text>
+</svg>

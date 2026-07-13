@@ -1,0 +1,11 @@
+<!--
+  Placeholder for the dark contribution snake variant.
+  The .github/workflows/contribution-snake.yml workflow replaces this file.
+-->
+<svg width="800" height="180" viewBox="0 0 800 180" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Dark contribution snake placeholder</title>
+  <desc id="desc">Placeholder shown until the Contribution Snake workflow generates the dark variant.</desc>
+  <rect width="800" height="180" rx="18" fill="#0D1117"/>
+  <path d="M110 90H690" stroke="#30363D" stroke-width="36" stroke-linecap="round"/>
+  <path d="M110 90C178 42 230 138 298 90C366 42 418 138 486 90C554 42 606 138 690 90" stroke="#7EE787" stroke-width="8" stroke-linecap="round"/>
+</svg>

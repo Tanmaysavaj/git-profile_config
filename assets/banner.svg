@@ -1,0 +1,34 @@
+<!--
+  Premium GitHub profile banner placeholder.
+  Replace this SVG with custom original artwork if desired.
+  Do not use copyrighted or Canva-exported assets unless you own the rights.
+-->
+<svg width="1200" height="360" viewBox="0 0 1200 360" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Tanmay Savaj profile banner</title>
+  <desc id="desc">Minimal dark banner for a software engineer focused on backend, cloud, AI, and DevOps.</desc>
+  <rect width="1200" height="360" rx="28" fill="#0D1117"/>
+  <rect x="40" y="40" width="1120" height="280" rx="22" fill="#111827" stroke="#253041"/>
+  <path d="M80 250 C230 165 345 330 500 235 C650 143 752 218 870 156 C990 93 1075 143 1120 112" stroke="#58A6FF" stroke-width="3" opacity="0.75"/>
+  <path d="M80 286 C250 235 344 278 496 206 C663 126 777 294 924 204 C1018 147 1079 177 1120 152" stroke="#7EE787" stroke-width="2" opacity="0.45"/>
+  <g opacity="0.9">
+    <rect x="86" y="86" width="360" height="116" rx="16" fill="#0D1117" stroke="#30363D"/>
+    <circle cx="116" cy="118" r="7" fill="#FF7B72"/>
+    <circle cx="142" cy="118" r="7" fill="#F2CC60"/>
+    <circle cx="168" cy="118" r="7" fill="#7EE787"/>
+    <text x="112" y="157" fill="#C9D1D9" font-family="Consolas, monospace" font-size="22">tanmay@github:~$</text>
+    <text x="112" y="184" fill="#58A6FF" font-family="Consolas, monospace" font-size="20">ship reliable systems</text>
+  </g>
+  <text x="515" y="132" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="46" font-weight="700">Tanmay Savaj</text>
+  <text x="516" y="178" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24">Software Engineer | Backend | Cloud | AI</text>
+  <text x="516" y="222" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Toronto, Canada</text>
+  <g transform="translate(516 252)">
+    <rect width="118" height="34" rx="17" fill="#16213A" stroke="#2F81F7"/>
+    <text x="59" y="23" text-anchor="middle" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Backend</text>
+    <rect x="132" width="96" height="34" rx="17" fill="#12251B" stroke="#238636"/>
+    <text x="180" y="23" text-anchor="middle" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Cloud</text>
+    <rect x="242" width="72" height="34" rx="17" fill="#251A32" stroke="#8957E5"/>
+    <text x="278" y="23" text-anchor="middle" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">AI</text>
+    <rect x="328" width="104" height="34" rx="17" fill="#2A1F12" stroke="#D29922"/>
+    <text x="380" y="23" text-anchor="middle" fill="#C9D1D9" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">DevOps</text>
+  </g>
+</svg>

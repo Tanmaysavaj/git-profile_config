@@ -1,0 +1,41 @@
+name: Contribution Snake
+
+on:
+  # Runs once per day to regenerate the contribution snake from the latest graph.
+  schedule:
+    - cron: "20 5 * * *"
+
+  # Allows manual refresh from the GitHub Actions tab.
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    name: Generate contribution snake
+    runs-on: ubuntu-latest
+
+    steps:
+      # Checks out the profile repository so generated SVGs can be committed back.
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # Generates SVG assets from the public contribution graph.
+      - name: Generate snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: Tanmaysavaj
+          outputs: |
+            output/github-snake.svg
+            output/github-snake-dark.svg?palette=github-dark
+
+      # Commits the refreshed snake files only when the generated output changed.
+      - name: Commit generated SVGs
+        shell: bash
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add output/github-snake.svg output/github-snake-dark.svg
+          git diff --cached --quiet || git commit -m "chore: update contribution snake"
+          git push

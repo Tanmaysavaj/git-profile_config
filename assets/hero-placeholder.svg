@@ -1,0 +1,12 @@
+<!--
+  Placeholder for a future original hero animation or image.
+  Keep artwork custom-owned and lightweight for fast GitHub README loading.
+-->
+<svg width="900" height="480" viewBox="0 0 900 480" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Hero image placeholder</title>
+  <desc id="desc">Editable SVG placeholder for future custom profile artwork.</desc>
+  <rect width="900" height="480" rx="24" fill="#0D1117"/>
+  <rect x="48" y="48" width="804" height="384" rx="18" fill="#111827" stroke="#30363D"/>
+  <text x="450" y="222" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="32" font-weight="700">Custom Hero Artwork</text>
+  <text x="450" y="266" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="20">Replace with original animation or profile visual.</text>
+</svg>

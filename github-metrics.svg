@@ -1,0 +1,12 @@
+<!--
+  Placeholder for GitHub Metrics.
+  The .github/workflows/github-metrics.yml workflow replaces this file with generated metrics.
+-->
+<svg width="800" height="220" viewBox="0 0 800 220" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">GitHub metrics placeholder</title>
+  <desc id="desc">Placeholder shown until the GitHub Metrics workflow generates live metrics.</desc>
+  <rect width="800" height="220" rx="18" fill="#0D1117"/>
+  <rect x="24" y="24" width="752" height="172" rx="14" fill="#111827" stroke="#30363D"/>
+  <text x="400" y="98" text-anchor="middle" fill="#F0F6FC" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="28" font-weight="700">GitHub Metrics</text>
+  <text x="400" y="138" text-anchor="middle" fill="#8B949E" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18">Run the GitHub Metrics workflow to generate live profile data.</text>
+</svg>
